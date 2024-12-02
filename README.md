@@ -1,12 +1,15 @@
+# 👋 Hi, I’m @techwack
 
+🌱 **Currently Learning:** Game Development, AI, animation  
+    **3D Modeling:** SolidWorks (500+ downloads on uploaded models)
 
+📫 **How to reach me:**  
+- LinkedIn: [www.linkedin.com/in/divyanshijain31](https://www.linkedin.com/in/divyanshijain31)  
 
-- 👋 Hi, I’m @techwack
-- 👀 I’m interested in coding, eating and learning
-- 🌱 I’m currently learning game dev, AI
-- 📫 How to reach me linkedin: www.linkedin.com/in/divyanshijain31
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: you gotta lets go
+😄 **Pronouns:** She/Her  
+⚡ **Fun Fact:** You gotta let's go! 🚀
+
+---
 
 ### **Skills**  
 <div>
@@ -18,14 +21,17 @@
   <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white" alt="SQL" />
 </div>
 
+---
+
 ### **GitHub Stats**  
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=techwack&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techwack&layout=compact&theme=radical" alt="Top Languages" width="43%" />
 </div>
- 
 
-<!---
-techwack/techwack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+
+<!--- 
+techwack/techwack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 You can click the Preview link to take a look at your changes.
 --->
