@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @techwack
 
 🌱 **Currently Learning:** Game Development, AI, animation  
-    **3D Modeling:** SolidWorks (500+ downloads on uploaded models)
+    **3D Modeling:** SolidWorks (600+ downloads on uploaded models)
 
 📫 **How to reach me:**  
 - LinkedIn: [www.linkedin.com/in/divyanshijain31](https://www.linkedin.com/in/divyanshijain31)  
