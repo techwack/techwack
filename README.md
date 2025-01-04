@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @techwack
 
-🌱 **Currently Learning:** Game Development, AI, animation  
+🌱 **Currently Exploring:** AI, React 
     **3D Modeling:** SolidWorks (700+ downloads on GrabCAD)
 
 📫 **How to reach me:**  
