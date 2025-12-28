@@ -25,9 +25,10 @@
 
 ### **GitHub Stats**  
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=techwack&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techwack&layout=compact&theme=radical" alt="Top Languages" width="43%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=techwack&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=techwack&layout=compact&theme=radical" alt="Top Languages" width="43%" />
 </div>
+
 
 ---
 
